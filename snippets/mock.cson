@@ -3,34 +3,34 @@
   '.mockClear()':
     descriptionMoreURL: 'https://facebook.github.io/jest/docs/jest-object.html#mockfnmockclear'
     prefix: 'mclear'
-    body: '.mockClear();'
+    body: '.mockClear()'
 
   '.mockReset()':
     descriptionMoreURL: 'https://facebook.github.io/jest/docs/jest-object.html#mockfnmockreset'
     prefix: 'mreset'
-    body: '.mockReset();'
+    body: '.mockReset()'
 
   '.mockImplementation(fn)':
     descriptionMoreURL: 'https://facebook.github.io/jest/docs/jest-object.html#mockfnmockimplementationfn'
     prefix: 'mimpl'
-    body: '.mockImplementation($1);'
+    body: '.mockImplementation($1)'
 
   '.mockImplementationOnce(fn)':
     descriptionMoreURL: 'https://facebook.github.io/jest/docs/jest-object.html#mockfnmockimplementationoncefn'
     prefix: 'mimplonce'
-    body: '.mockImplementationOnce($1);'
+    body: '.mockImplementationOnce($1)'
 
   '.mockReturnThis()':
     descriptionMoreURL: 'https://facebook.github.io/jest/docs/jest-object.html#mockfnmockreturnthis'
     prefix: 'mrett'
-    body: '.mockReturnThis();'
+    body: '.mockReturnThis()'
 
   '.mockReturnValue(value)':
     descriptionMoreURL: 'https://facebook.github.io/jest/docs/jest-object.html#mockfnmockreturnvaluevalue'
     prefix: 'mretval'
-    body: '.mockReturnValue($1);'
+    body: '.mockReturnValue($1)'
 
   '.mockReturnValueOnce(value)':
     descriptionMoreURL: 'https://facebook.github.io/jest/docs/jest-object.html#mockfnmockreturnvalueoncevalue'
     prefix: 'mretvalo'
-    body: '.mockReturnValueOnce($1);'
+    body: '.mockReturnValueOnce($1)'
