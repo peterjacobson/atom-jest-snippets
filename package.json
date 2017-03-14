@@ -1,16 +1,17 @@
 {
   "name": "atom-jest-snippets-standard",
   "version": "1.0.2",
-  "description": "Snippets for Jest testing framework",
+  "description": "Snippets for Jest testing framework, fork of Bryce Osterhaus's atom-jest-snippets",
   "repository": "https://github.com/peterjacobson/atom-jest-snippets.git",
   "keywords": [
     "atom",
     "jest",
-    "snippets"
+    "snippets",
+    "standard"
   ],
   "engines": {
     "atom": ">0.50.0"
   },
-  "author": "Bryce Osterhaus",
+  "author": ["Bryce Osterhaus", "Peter Jacobson"],
   "license": "MIT"
 }
